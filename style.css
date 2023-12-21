@@ -1,0 +1,31 @@
+.navbar{
+  background-color: rgb(24, 28, 233);
+  
+}
+
+.nav-link,.nav-link.disabled{
+   color: #a3a1a1 !important
+}
+.nav-link.active,.navbar-brand{
+  color: #ffffff !important
+}
+.carousel-inner{
+  background-color: #a3a1a1;
+}
+.carousel-caption.d-none{
+  text-align: left;
+  font-size: 25px;
+}
+h5{
+  font-size: 50px;
+  color: rgb(55, 0, 255);
+}
+
+.card img{
+  width: 120px;
+  height: 120px;
+}
+strong{
+  font-size: 50px;
+}
+
